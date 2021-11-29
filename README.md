@@ -21,6 +21,8 @@ Installing Wireshark: First thing is to open the terminal then type the command 
 
 <img width="1280" alt="Screen Shot 2021-11-29 at 1 53 10 PM" src="https://user-images.githubusercontent.com/90719446/143927904-234c8e24-8d2d-4fae-b8ae-ea1f9e4aca01.png">
 
+<img width="1280" alt="Screen Shot 2021-11-29 at 1 54 42 PM" src="https://user-images.githubusercontent.com/90719446/143928253-558b5287-958c-465f-9088-e49ce3845170.png">
+
 
 Some of the reasons people use this software is to troubleshoot network problems, examine security problems and debug protocols implementations.
 
