@@ -9,5 +9,14 @@ Search for VirtualBox on any brower and the first which will appear will be from
 
 Installing Ubuntu (20.04) on VirtualBox
 Downloading the ISO file for Ubuntu on VirtualBox. For downloading the ISO file of Ubuntu, you just have to search for Ubuntu and first link which will appear here will be from ubuntu.com just click on the first link and right away you will see this option here it says what's new in Ubuntu 20.0 for because 20.04 is the latest version or the recent release. Look for the downloads tab and when click on the download tab you will see the Ubuntu desktop so you can click on the version which is available, and you should install the "LTS" version when click download. 
-Once you have downloaded the ISO file install ubuntu on VirtualBox. Click on the new button and once you click on the new button you can provide the name of your new machine. Once giving it a name straightway VirtualBox is smart enough to provide default setting
+Once you have downloaded the ISO file install ubuntu on VirtualBox. Click on the new button and once you click on the new button you can provide the name of your new machine. Once giving it a name straightway VirtualBox is smart enough to provide default setting. Now head to the storage section when you need to provide the location of the ISO file that was downloaded, so click on the empty option under the controller choose the CD icon option the click on "choose a disk file" thwn browse to the location where the download is. 
+Now you can start the Ubuntu installation, after starting up the ubuntu installation is going to start, select the language, keyboard layout and location.
+
+Some of the reasons people use this software is to troubleshoot network problems, examine security problems and debug protocals implementations.
+
+Youtube
+https://youtu.be/tIsAoRtI2y0
+
+Final Review
+
 
