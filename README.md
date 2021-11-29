@@ -14,6 +14,10 @@ Now you can start the Ubuntu installation, after starting up the ubuntu installa
 
 Installing Wireshark: First thing is to open the terminal then type the command "ip addr" to show you your Ip address. Type "sudo apt update" to update the refernce, sudo allows you to run the root privileges it going to ask you for your password. After updating type "sudo apt install wireshark" to install wireshark the type yes to install the software. In my opinion this is the easy way to install wireshark some people like to go on the wireshark site and download it from there. When configuring wireshark-common you want to leave it as no, no is set as default. After wireshark you want to reopen terminal and type "sudo wireshark" now you can start capturing packets.
 
+
+<img width="1280" alt="Screen Shot 2021-11-29 at 1 52 45 PM" src="https://user-images.githubusercontent.com/90719446/143928074-a973ef27-f661-49f8-b7e5-5117a2da5d5f.png">
+
+
 <img width="1280" alt="Screen Shot 2021-11-29 at 1 53 10 PM" src="https://user-images.githubusercontent.com/90719446/143927904-234c8e24-8d2d-4fae-b8ae-ea1f9e4aca01.png">
 
 <img width="1280" alt="Screen Shot 2021-11-29 at 1 51 35 PM" src="https://user-images.githubusercontent.com/90719446/143927700-7cbb8d3a-b806-49af-a281-5860725beebe.png">
