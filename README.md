@@ -34,6 +34,9 @@ https://youtu.be/tIsAoRtI2y0
 Final Review:
 Overall the software is a very hand it let you all the communication the network, so if you connected to a wireless access point you can see all the traffic coming from user on the network. Understanding how normal traffic look like is important so you know if something going wrong on your network, like with a DDos attack there is a specific type of format you can identify just by looking, DDos attack is a flood of the same traffic
 
+<img width="1280" alt="Screen Shot 2021-11-29 at 1 55 47 PM" src="https://user-images.githubusercontent.com/90719446/143930411-68080fc4-1737-4ea7-a727-0d97d0c58e63.png">
+
+
 (Pros) 
 You can who on the network, you can user for troubleshooting, 
 (Cons)
