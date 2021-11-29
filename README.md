@@ -18,5 +18,8 @@ Youtube
 https://youtu.be/tIsAoRtI2y0
 
 Final Review
-
+Overall the software is a very hand it let you all the communication the network, so if you connected to a wireless access point you can see all the traffic coming from user on the network
+(Pros) You can who on the network, you can user for troubleshooting,
+(Cons) Some people information might be encrypted,
+I would use Wireshark it easy to understand and straightforward
 
