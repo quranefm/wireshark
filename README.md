@@ -24,7 +24,7 @@ Overall the software is a very hand it let you all the communication the network
 
 (Pros) You can who on the network, you can user for troubleshooting, 
 (Cons) Some people information might be encrypted,
-I would use Wireshark it easy to understand and straightforward
+I would use Wireshark it easy to understand and straightforward, Ive learned that wireshark is a powerful tool to know.
 
 
 
