@@ -1,4 +1,4 @@
-# Wireshark
+# CSN-150
 Wireshark application
 
 Wireshark is a free open source software that you can use to analyze packets, Wireshark is a very handy and useful tool in networking, it helps researchers do data analysis
