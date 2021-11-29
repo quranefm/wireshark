@@ -1,8 +1,8 @@
 # Wireshark
 Wireshark application
 
-Wireshark is a very handy and useful tool in networking, it helps researchers do data analysis
-when it comes to networking traffic and it can used be used by hackers for security purposes.
+Wireshark is a free open source software that you can use to analyze packets, Wireshark is a very handy and useful tool in networking, it helps researchers do data analysis
+when it comes to networking traffic and it can used be used by hackers for security purposes. 
 
 Virtual Machine (VirtualBox):
 Search for VirtualBox on any brower and the first which will appear will be from VirtualBox OSE so, click on the link and once this link opens you just need to click on the downloads tab to download and after downloading you just need to install. VirtualBox is a free tool which will enable you to rub different operating systems virtually on your host operating system.
@@ -20,8 +20,9 @@ Youtube:
 https://youtu.be/tIsAoRtI2y0
 
 Final Review:
-Overall the software is a very hand it let you all the communication the network, so if you connected to a wireless access point you can see all the traffic coming from user on the network
-(Pros) You can who on the network, you can user for troubleshooting,
+Overall the software is a very hand it let you all the communication the network, so if you connected to a wireless access point you can see all the traffic coming from user on the network. Understanding how normal traffic look like is important so you know if something going wrong on your network, like with a DDos attack there is a specific type of format you can identify just by looking, DDos attack is a flood of the same traffic
+
+(Pros) You can who on the network, you can user for troubleshooting, 
 (Cons) Some people information might be encrypted,
 I would use Wireshark it easy to understand and straightforward
 
