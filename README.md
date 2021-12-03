@@ -43,5 +43,24 @@ Wireshark
 * sudo apt install xfce4
 * echo "xfce4-session"  "greater than symbol"  /home/YOURUSERNAME/.xsession
 
+# Youtube: 
+https://youtu.be/lqZZ_HtE4go
+
+# Final Review:
+
+Overall the software is a very hand it let you all the communication the network, so if you connected to a wireless access point you can see all the traffic coming from user on the network. Understanding how normal traffic look like is important so you know if something going wrong on your network, like with a DDos attack there is a specific type of format you can identify just by looking, DDos attack is a flood of the same traffic
+
+# References:
+
+https://blog.wireshark.org
+https://computingforgeeks.com/how-to-install-wireshark-on-ubuntu-desktop/
+
+# Problems:
+
+Could get wireshark to open and run on the cloud 
+
+
+
+
 
 
