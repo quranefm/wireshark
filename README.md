@@ -25,6 +25,7 @@ Wireshark
 * In Terminal you're going to enter "ssh root@'The Ip Address To The Droplet" ex ssh root@169.254.55.1
 * The Login is root and the password is the same one you created or if you used ssh check your email
 * After you're loged in follow the following commands 
+* run "sudo apt update"
 * adduser (yourname)
 * usermod -aG sudo (yourname)
 * ufw app list
@@ -32,7 +33,6 @@ Wireshark
 * ufw enable
 * ufw status
 * sudo apt install tasksel
-* apt update && upgrade -y
 * sudo tasksel
 * sudo apt install xrdp
 * sudo systemctl enable xrdp
